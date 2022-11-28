@@ -1,0 +1,9 @@
+"D:\clion\CLion 2021.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2021.3.1/bin/ninja/win/ninja.exe" -G Ninja E:\alclion\untitled
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.5.4 in D:/opencv-4.5.4/opencv-4.5.4/mingw-build/install/x64/mingw/lib
+-- You might need to add D:\opencv-4.5.4\opencv-4.5.4\mingw-build\install\x64\mingw\bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/alclion/untitled/cmake-build-debug
